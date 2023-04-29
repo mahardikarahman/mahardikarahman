@@ -1,3 +1,4 @@
+![logo](https://github.com/mahardikarahman/mahardikarahman/blob/f422f59e2d34cac66445100b76538b6ff696897b/Frame%2014.jpg)
 <h1 align="center">Hi 👋, I'm Mahardika Rahman Rizky</h1>
 <h3 align="center">A passionate Quality Assurance from Indonesia</h3>
 
